@@ -1,4 +1,4 @@
-# 📊 Sales Market Report Analysis
+# 📊 P&L Report Analysis
 📁 Project Overview
 This project analyzes sales performance data from an Excel report covering various regions, product categories, and timeframes. Using Power BI and Excel, the goal is to deliver insights on revenue trends, customer behavior, and product performance to assist in strategic business planning.
 
